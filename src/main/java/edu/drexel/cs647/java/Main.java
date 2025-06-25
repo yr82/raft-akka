@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 import akka.actor.typed.ActorSystem;
 
-public class HW2 {
+public class Main {
 	// The only IO we're doing here is console IO, if that fails we can't really
 	// recover
 	public static void main(String[] args) throws IOException, InterruptedException {

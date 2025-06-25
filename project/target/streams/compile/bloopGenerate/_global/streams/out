@@ -1,4 +1,4 @@
-[0m[[0m[0mdebug[0m] [0m[0m[hw2-build] Classpath dependencies List()[0m
-[0m[[0m[0mdebug[0m] [0m[0m[hw2-build] Dependencies from configurations List()[0m
-[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'hw2-build' to '/Users/yashodha/Desktop/Drexel/grad/year_2/spring_quarter/CS-647/HW2/project/.bloop/hw2-build.json'[0m
-[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop/hw2-build.json[0m
+[0m[[0m[0mdebug[0m] [0m[0m[raft-akka-build] Classpath dependencies List()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[raft-akka-build] Dependencies from configurations List()[0m
+[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'raft-akka-build' to '/Users/yashodha/Desktop/raft-akka/project/.bloop/raft-akka-build.json'[0m
+[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop/raft-akka-build.json[0m

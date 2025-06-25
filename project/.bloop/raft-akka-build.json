@@ -1,16 +1,16 @@
 {
     "version": "1.4.0",
     "project": {
-        "name": "hw2-build",
-        "directory": "/Users/yashodha/Desktop/Drexel/grad/year_2/spring_quarter/CS-647/HW2/project",
-        "workspaceDir": "/Users/yashodha/Desktop/Drexel/grad/year_2/spring_quarter/CS-647/HW2/project",
+        "name": "raft-akka-build",
+        "directory": "/Users/yashodha/Desktop/raft-akka/project",
+        "workspaceDir": "/Users/yashodha/Desktop/raft-akka/project",
         "sources": [
-            "/Users/yashodha/Desktop/Drexel/grad/year_2/spring_quarter/CS-647/HW2/project/src/main/scala",
-            "/Users/yashodha/Desktop/Drexel/grad/year_2/spring_quarter/CS-647/HW2/project/src/main/scala-2.12",
-            "/Users/yashodha/Desktop/Drexel/grad/year_2/spring_quarter/CS-647/HW2/project/src/main/scala-2",
-            "/Users/yashodha/Desktop/Drexel/grad/year_2/spring_quarter/CS-647/HW2/project/src/main/java",
-            "/Users/yashodha/Desktop/Drexel/grad/year_2/spring_quarter/CS-647/HW2/project/src/main/scala-sbt-1.0",
-            "/Users/yashodha/Desktop/Drexel/grad/year_2/spring_quarter/CS-647/HW2/project/target/scala-2.12/sbt-1.0/src_managed/main"
+            "/Users/yashodha/Desktop/raft-akka/project/src/main/scala",
+            "/Users/yashodha/Desktop/raft-akka/project/src/main/scala-2.12",
+            "/Users/yashodha/Desktop/raft-akka/project/src/main/scala-2",
+            "/Users/yashodha/Desktop/raft-akka/project/src/main/java",
+            "/Users/yashodha/Desktop/raft-akka/project/src/main/scala-sbt-1.0",
+            "/Users/yashodha/Desktop/raft-akka/project/target/scala-2.12/sbt-1.0/src_managed/main"
         ],
         "dependencies": [
             
@@ -104,11 +104,11 @@
             "/Users/yashodha/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar",
             "/Users/yashodha/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2.jar"
         ],
-        "out": "/Users/yashodha/Desktop/Drexel/grad/year_2/spring_quarter/CS-647/HW2/project/.bloop/hw2-build",
-        "classesDir": "/Users/yashodha/Desktop/Drexel/grad/year_2/spring_quarter/CS-647/HW2/project/.bloop/hw2-build/scala-2.12/sbt-1.0/classes",
+        "out": "/Users/yashodha/Desktop/raft-akka/project/.bloop/raft-akka-build",
+        "classesDir": "/Users/yashodha/Desktop/raft-akka/project/.bloop/raft-akka-build/scala-2.12/sbt-1.0/classes",
         "resources": [
-            "/Users/yashodha/Desktop/Drexel/grad/year_2/spring_quarter/CS-647/HW2/project/src/main/resources",
-            "/Users/yashodha/Desktop/Drexel/grad/year_2/spring_quarter/CS-647/HW2/project/target/scala-2.12/sbt-1.0/resource_managed/main"
+            "/Users/yashodha/Desktop/raft-akka/project/src/main/resources",
+            "/Users/yashodha/Desktop/raft-akka/project/target/scala-2.12/sbt-1.0/resource_managed/main"
         ],
         "scala": {
             "organization": "org.scala-lang",
@@ -210,7 +210,7 @@
             "config": {
                 "home": "/opt/homebrew/Cellar/openjdk/23.0.2/libexec/openjdk.jdk/Contents/Home",
                 "options": [
-                    "-Duser.dir=/Users/yashodha/Desktop/Drexel/grad/year_2/spring_quarter/CS-647/HW2/project"
+                    "-Duser.dir=/Users/yashodha/Desktop/raft-akka/project"
                 ]
             },
             "mainClass": [
@@ -219,11 +219,11 @@
             "runtimeConfig": {
                 "home": "/opt/homebrew/Cellar/openjdk/23.0.2/libexec/openjdk.jdk/Contents/Home",
                 "options": [
-                    "-Duser.dir=/Users/yashodha/Desktop/Drexel/grad/year_2/spring_quarter/CS-647/HW2/project"
+                    "-Duser.dir=/Users/yashodha/Desktop/raft-akka/project"
                 ]
             },
             "classpath": [
-                "/Users/yashodha/Desktop/Drexel/grad/year_2/spring_quarter/CS-647/HW2/project/.bloop/hw2-build/scala-2.12/sbt-1.0/classes",
+                "/Users/yashodha/Desktop/raft-akka/project/.bloop/raft-akka-build/scala-2.12/sbt-1.0/classes",
                 "/Users/yashodha/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/sbt-bloop_2.12_1.0/2.0.9/sbt-bloop_2.12_1.0-2.0.9.jar",
                 "/Users/yashodha/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/2.3.2/bloop-config_2.12-2.3.2.jar",
                 "/Users/yashodha/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_2.12/2.13.5.2/jsoniter-scala-core_2.12-2.13.5.2.jar",
