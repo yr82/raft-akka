@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 27 products, 11 sources, 2 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/java/edu/drexel/cs647/java/Orchestrator.java, ${BASE}/src/main/java/edu/drexel/cs647/java/StateMachine.java, ${BASE}/src/main/java/edu/drexel/cs647/java/SbtRepro.java, ${BASE}/src/main/java/edu/drexel/cs647/java/HW2.java, ${BASE}/src/main/java/edu/drexel/cs647/java/ClientRequest.java, ${BASE}/src/main/java/edu/drexel/cs647/java/RaftFollower.java, ${BASE}/src/main/java/edu/drexel/cs647/java/PersistentServerState.java, ${BASE}/src/main/java/edu/drexel/cs647/java/RaftCandidate.java, ${BASE}/src/main/java/edu/drexel/cs647/java/LogEntry.java, ${BASE}/src/main/java/edu/drexel/cs647/java/RaftServerMessage.java, ${BASE}/src/main/java/edu/drexel/cs647/java/RaftLeader.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m

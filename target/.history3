@@ -1,0 +1,14 @@
+1681311503839:compile
+1681316396475:~compile
+1681317279344:compile
+1681390849649:compile -explain
+1681390869680:compile
+1681390875957:run
+1681390897272:help run
+1681390932529:run edu.drexel.cs647.java.AkkaDemo
+1681391016515:compile
+1681391019560:run edu.drexel.cs647.java.AkkaDemo
+1681391031884:help run
+1681391034050:run --help
+1683207181374:;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/3x/q5c7flsn1mb52_4n9vm47l90gpwnhx/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/csg63/Library/Application Support/JetBrains/IdeaIC2023.1/plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.0/2023.1.0/sbt-structure-extractor-2023.1.0.jar" org.jetbrains.sbt.CreateTasks;preferScala2;*/*:dumpStructure
+1747525424516:;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/pm/2rm7051s0wj47k6s3sh4fht40000gn/T/sbt-structure1.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers, insertProjectTransitiveDependencies");apply -cp "/Users/yashodha/Library/Application Support/JetBrains/IntelliJIdea2023.3/plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.3/2023.3.2/sbt-structure-extractor-2023.3.2.jar" org.jetbrains.sbt.CreateTasks;preferScala2;*/*:dumpStructure

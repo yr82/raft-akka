@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(;Test/compile; collectAnalyses, None, Some(CommandSource(network-1)))[0m
+[0m[[0m[0mdebug[0m] [0m[0munmatched Processing event for requestId None: None[0m
+[0m[[0m[0mdebug[0m] [0m[0munmatched Done event for requestId None: None[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(Test/compile, None, Some(CommandSource(network-1)))[0m
+[0m[[0m[0mdebug[0m] [0m[0munmatched Processing event for requestId None: None[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / compile[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/taskStart, {"taskId":{"id":"5","parents":[]},"eventTime":1680740814751,"message":"Compiling root","dataKind":"compile-task","data":{"target":{"uri":"file:/Users/csg63/teaching/distsys/akkademo1/#root/Compile"}}})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/taskFinish, {"taskId":{"id":"5","parents":[]},"eventTime":1680740814786,"message":"Compiled root","status":1,"dataKind":"compile-report","data":{"target":{"uri":"file:/Users/csg63/teaching/distsys/akkademo1/#root/Compile"},"errors":0,"warnings":0,"time":35}})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/taskStart, {"taskId":{"id":"6","parents":[]},"eventTime":1680740814803,"message":"Compiling root-test","dataKind":"compile-task","data":{"target":{"uri":"file:/Users/csg63/teaching/distsys/akkademo1/#root/Test"}}})[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/csg63/teaching/distsys/akkademo1/target/scala-3.2.2/test-classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":3,"message":"compiling 1 Scala source to /Users/csg63/teaching/distsys/akkademo1/target/scala-3.2.2/test-classes ..."})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/taskFinish, {"taskId":{"id":"6","parents":[]},"eventTime":1680740816189,"message":"Compiled root-test","status":1,"dataKind":"compile-report","data":{"target":{"uri":"file:/Users/csg63/teaching/distsys/akkademo1/#root/Test"},"errors":0,"warnings":0,"time":1386}})[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 2 s, completed Apr 5, 2023, 8:26:56 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0munmatched Done event for requestId None: None[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(collectAnalyses, None, Some(CommandSource(network-1)))[0m
+[0m[[0m[0mdebug[0m] [0m[0munmatched Processing event for requestId None: None[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / collectAnalyses[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0mdebug[0m] [0m[0manalysis location (/Users/csg63/teaching/distsys/akkademo1/target/scala-3.2.2/zinc/inc_compile_3.zip,true)[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 0 s, completed Apr 5, 2023, 8:26:56 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0munmatched Done event for requestId None: None[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
+[0m[[0m[0mdebug[0m] [0m[0mUnhandled request received: shutdown: JsonRpcRequestMessage(2.0, ♨4, shutdown, null})[0m
